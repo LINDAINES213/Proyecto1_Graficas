@@ -8,7 +8,8 @@ Para este proyecto teníamos que simular un sistema solar usando SDL2 y GLM. El 
   - `↑`: Para subir<br>
   - `↓`: Para bajar<br>
   - `←`: Para ir a la izquiera<br>
-  - `→`: Para ir a la derecha<br><br>
+  - `→`: Para ir a la derecha
+<br><br>
 Acá dejo también el link al repositorio donde pueden ver los planetas más de cerca uno por uno: https://github.com/LINDAINES213/Lab04_Shaders#lab04-shaders
 <br>
 ## Demo Proyecto
