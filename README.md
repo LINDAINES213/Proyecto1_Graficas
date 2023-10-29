@@ -1,4 +1,4 @@
-# Proyecto 1 Gráficas por Computadora
+# Proyecto 1 - Gráficas por Computadora
 ## 🪐Space Travel 💫
 Para este proyecto teníamos que simular un sistema solar usando SDL2 y GLM. El programa renderiza objetos 3D en la ventana SDL cargando modelos OBJ, los cuales se les hizo distintos shaders para hacer cada planeta en el sistema solar. En este caso el sistema contiene un sol al centro, con un planeta random color morado, la Tierra, Marte, Jupiter y Neptuno. Este sistema puede ser explorado apachando las siguientes teclas:<br>
   - `W`: Para acercarse al sistema solar<br>
