@@ -8,7 +8,8 @@ Para este proyecto teníamos que simular un sistema solar usando SDL2 y GLM. El 
   - `↑`: Para subir<br>
   - `↓`: Para bajar<br>
   - `←`: Para ir a la izquiera<br>
-  - `→`: Para ir a la derecha<br>
+  - `→`: Para ir a la derecha<br><br>
+  Acá dejo también el link al repositorio donde pueden ver los planetas más de cerca uno por uno: https://github.com/LINDAINES213/Lab04_Shaders#lab04-shaders
 
 ## Demo Proyecto
 Acá se encuentra el link a un video donde se ve la demostración de como funcionan los movimientos de la camara recorriendo el sistema solar y como los planetas orbitan alrededor del sol.<br><br>
