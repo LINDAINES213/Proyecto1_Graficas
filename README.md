@@ -13,5 +13,7 @@ Para este proyecto teníamos que simular un sistema solar usando SDL2 y GLM. El 
 Acá dejo también el link al repositorio donde pueden ver los planetas más de cerca uno por uno: https://github.com/LINDAINES213/Lab04_Shaders#lab04-shaders
 ## Demo Proyecto
 Acá se encuentra el link a un video donde se ve la demostración de como funcionan los movimientos de la camara recorriendo el sistema solar y como los planetas orbitan alrededor del sol.<br><br>
-Link: https://clipchamp.com/watch/Li5esDkzbVu?utm_source=share&utm_medium=social&utm_campaign=watch<br><br>
+Link 1: https://clipchamp.com/watch/Li5esDkzbVu?utm_source=share&utm_medium=social&utm_campaign=watch<br><br>
+Link 2: https://youtu.be/TNeKoDKC50E
 ![SpaceTravel](https://github.com/LINDAINES213/Proyecto1_Graficas/assets/77686175/e9f0aeea-d1ba-4e52-a8af-4bc5c003cdc0)
+
